@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn1.dotesports.com/wp-content/uploads/2020/08/10174628/49581225433_83c2413b9a_k.jpg",
+        "name": "Sergen “Broken Blade” Çelik ",
+        "department": "Top Lane",
+        "email": "tsmBrokenBlade@teamsolomid.com",
+        "phone": "308-786-4083"
+    },
+    {
+        "id": 2,
+        "image": "https://cdn1.dotesports.com/wp-content/uploads/2020/05/13101421/48713951248_2ecad7c7da_k.jpg",
+        "name": "Mingyi “Spica” Lu",
+        "department": "Jungle",
+        "email": "tsmspica@teamsolomid.com",
+        "phone": "318-876-5962"
+    },
+    {
+        "id": 3,
+        "image": "https://pbs.twimg.com/profile_images/1119832495891959808/rJKIB9Zv.png",
+        "name": "Søren “Bjergsen” Bjerg",
+        "department": "Mid Lane",
+        "email": "tsmbjergsen@teamsolomid.com",
+        "phone": "308-726-7978"
+    },
+    {
+        "id": 4,
+        "image": "https://estnn.com/wp-content/uploads/2019/11/tsm-biofrost.jpg",
+        "name": "Vincent “Biofrost” Wang ",
+        "department": "Support",
+        "email": "tsmbiofrost@teamsolomid.com",
+        "phone": "308-512-2676"
+    },
+    {
+        "id": 5,
+        "image": "https://cdn.vox-cdn.com/thumbor/8Cq9NITLEoc_GJJMuo84M2ytSEM=/0x0:2000x1333/1200x800/filters:focal(801x291:1121x611)/cdn.vox-cdn.com/uploads/chorus_image/image/51629511/29569046123_86267e3fa4_o.0.jpg",
+        "name": "Yiliang “Doublelift” Peng",
+        "department": "Bot Lane ADC",
+        "email": "tsmdoublelift@teamsolomid.com",
+        "phone": "308-280-8686"
+    }
